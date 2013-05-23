@@ -1,4 +1,4 @@
-FD9 corporate site.
+FD9 Group Corporate Site
+===
 
-Technologies Used:
-PHP5, HTML5, CSS3
+![FD9 Group Preview](https://raw.github.com/dkabistan/fd9group.com/master/images/preview.png)
